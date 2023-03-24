@@ -1,7 +1,7 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React from "react";
 import ME from "../../assets/me-about.jpg";
 import { IoSchoolSharp } from "react-icons/io5";
-import { FiUsers } from "react-icons/fi";
 import { BsFolder } from "react-icons/bs";
 import "./about.css";
 const About = () => {
